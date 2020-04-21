@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "SpeedEventType": "10",
+      "eventCount": 0,
+      "latitude": -33.8000373840332,
+      "longitude": 151.14253234863281,
+      "assetId": "2",
+      "assetDisplayName": "easyTRAK Car",
+      "date": "2019-10-30T06:36:19Z",
+      "groupId": 9500,
+      "groupName": "mock"
+    },
+    {
+      "SpeedEventType": "10",
+      "eventCount": 0,
+      "latitude": -33.782962799072266,
+      "longitude": 151.05101013183594,
+      "assetId": "2",
+      "assetDisplayName": "mock Car",
+      "date": "2019-10-30T06:50:02Z",
+      "groupId": 9500,
+      "groupName": "mock"
+    },
+    {
+      "SpeedEventType": "10",
+      "eventCount": 0,
+      "latitude": -33.790695190429688,
+      "longitude": 151.05551147460938,
+      "assetId": "2",
+      "assetDisplayName": "mock Car",
+      "date": "2019-10-30T06:50:54Z",
+      "groupId": 9500,
+      "groupName": "mock"
+    },
+    {
+      "SpeedEventType": "10",
+      "eventCount": 0,
+      "latitude": -33.794406890869141,
+      "longitude": 151.06547546386719,
+      "assetId": "2",
+      "assetDisplayName": "mock Car",
+      "date": "2019-11-05T22:34:26Z",
+      "groupId": 9500,
+      "groupName": "mock"
+    },
+    {
+      "SpeedEventType": "10",
+      "eventCount": 0,
+      "latitude": -33.896858215332031,
+      "longitude": 151.02200317382813,
+      "assetId": "2",
+      "assetDisplayName": "mock Car",
+      "date": "2019-11-06T08:01:22Z",
+      "groupId": 9500,
+      "groupName": "mock"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-{ "data" : [
+[
     {
       "SpeedEventType": "10",
       "eventCount": 0,
@@ -55,6 +55,6 @@
       "groupName": "mock"
     }
   ]
-}
+
 
 
